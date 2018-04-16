@@ -1,5 +1,6 @@
-## Glitch Garden
+## Glitch Garden 
 ### This is the game made with UNITY using GLITCH assets 
+### (.apk and .exe files are avaliable in BUILD folder of this project)
 
 #### 1. CUSTOM SPLASH SCREEN 
 ![screenshot_20180407-134818](https://user-images.githubusercontent.com/25602737/38458423-d0e86f2e-3abb-11e8-9165-1b4353ae8742.jpg)
